@@ -1,4 +1,4 @@
-# Charity Website using HTML and CSS
+# Charity Website Frontend using HTML and CSS
 
 This is a Charity Website developed using pure HTML and CSS.  
 It is designed to offer an informative, user-friendly interface for donors and individuals seeking assistance, with dedicated pages for various forms of charity.
